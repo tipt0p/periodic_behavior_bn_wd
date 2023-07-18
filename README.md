@@ -17,7 +17,7 @@ This repo contains the official PyTorch implementation of the NeurIPS'21 paper
 
 ## Abstract
 <div align="justify">
-<img align="right" width=35% src="https://tipt0p.github.io/images/periodic_behavior_neurips21.png" />
+<img align="right" width=40% src="https://tipt0p.github.io/images/periodic_behavior_neurips21.png" />
 Training neural networks with batch normalization and weight decay has become a
 common practice in recent years. In this work, we show that their combined use
 may result in a surprising periodic behavior of optimization dynamics: the training
